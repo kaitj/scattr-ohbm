@@ -1,0 +1,8 @@
+# Directories
+data/
+jobs/
+.db/
+
+# Files
+figure*
+.ipynb_checkpoints
