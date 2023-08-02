@@ -1,3 +1,3 @@
-# Deep Brain Structural Connectivity (DBSC) OHBM Analysis
+# Structural Connectivity Applied to Targetted Regions (SCATTR) OHBM Analysis
 
-This repository contains the notebook(s) used to analyze the reproducibility of the DBSC workflow for OHBM 2023.
+This repository contains the notebook(s) used to analyze the reproducibility of the SCATTR workflow for OHBM 2023.
